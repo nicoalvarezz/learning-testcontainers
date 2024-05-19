@@ -20,7 +20,6 @@
     import java.time.Duration;
     import java.util.List;
     import java.util.UUID;
-    import java.util.concurrent.TimeUnit;
 
     public class CustomerResourceTest {
 

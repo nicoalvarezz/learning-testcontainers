@@ -1,0 +1,8 @@
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/api/CustomerResponse.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/db/DBConnectionProvider.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/resources/CustomerResource.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/configuration/CustomerConfig.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/filters/TrailersFilter.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/db/dao/Customer.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/App.java
+/Users/nico/Documents/Github/learning-testcontainers/src/main/java/com/github/nicoalvarezz/learningtestcontainers/service/CustomerService.java

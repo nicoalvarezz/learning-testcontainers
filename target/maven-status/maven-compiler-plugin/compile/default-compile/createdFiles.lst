@@ -1,0 +1,8 @@
+com/github/nicoalvarezz/learningtestcontainers/filters/TrailersFilter.class
+com/github/nicoalvarezz/learningtestcontainers/api/CustomerResponse.class
+com/github/nicoalvarezz/learningtestcontainers/db/DBConnectionProvider.class
+com/github/nicoalvarezz/learningtestcontainers/resources/CustomerResource.class
+com/github/nicoalvarezz/learningtestcontainers/db/dao/Customer.class
+com/github/nicoalvarezz/learningtestcontainers/service/CustomerService.class
+com/github/nicoalvarezz/learningtestcontainers/configuration/CustomerConfig.class
+com/github/nicoalvarezz/learningtestcontainers/App.class
